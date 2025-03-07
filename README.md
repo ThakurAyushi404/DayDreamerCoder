@@ -4,19 +4,6 @@ Ayushi Thakur 👩‍💻
 💼 Current Role: Software Programmer at POS Mate Limited
 
 About Me
-Hello! I'm Ayushi, a passionate software developer with over 4 years of professional experience in designing, developing, and optimizing web applications. My expertise spans .NET Core, Web API, Machine Learning, and Natural Language Processing.
-
-Currently, I am working on building scalable kiosk systems, integrating secure payment gateways, and exploring the intersection of technology and user-centric solutions. I'm also pursuing a Master's in Applied Technology, where I focus on advanced computing and data-driven decision-making.
-
-
-Here’s a suggestion for your GitHub profile README.md:
-
-Ayushi Thakur 👩‍💻
-📍 Location: Auckland, New Zealand
-🎓 Education: Master of Applied Technology (Computer Science) | Bachelor of Technology (Computer Science)
-💼 Current Role: Software Programmer at POS Mate Limited
-
-About Me
 Hello! I'm Ayushi, a passionate software developer with over 3 years of professional experience in designing, developing, and optimizing web applications. My expertise spans .NET Core, Web API, Machine Learning, and Natural Language Processing.
 
 Currently, I am working on building scalable kiosk systems, integrating secure payment gateways, and exploring the intersection of technology and user-centric solutions. I'm also pursuing a Master's in Applied Technology, where I focus on advanced computing and data-driven decision-making.
